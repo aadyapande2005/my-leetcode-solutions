@@ -36,4 +36,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1805-number-of-different-integers-in-a-string](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1805-number-of-different-integers-in-a-string) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Design
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Queue
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Counting
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
