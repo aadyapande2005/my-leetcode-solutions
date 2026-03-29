@@ -15,4 +15,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+## Array
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Sorting
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
