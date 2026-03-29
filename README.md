@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1805-number-of-different-integers-in-a-string](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## Design
 |  |
 | ------- |
@@ -49,8 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## Data Stream
 |  |
 | ------- |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Enumeration
+|  |
+| ------- |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 <!---LeetCode Topics End-->
