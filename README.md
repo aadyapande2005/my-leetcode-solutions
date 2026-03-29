@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1805-number-of-different-integers-in-a-string](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Math
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Hash Table
+|  |
+| ------- |
+| [1805-number-of-different-integers-in-a-string](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 <!---LeetCode Topics End-->
