@@ -70,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+## Graph Theory
+|  |
+| ------- |
+| [2924-find-champion-ii](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2924-find-champion-ii) |
 <!---LeetCode Topics End-->
