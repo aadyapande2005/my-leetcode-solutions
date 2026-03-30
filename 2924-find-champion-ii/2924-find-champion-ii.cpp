@@ -1,6 +1,9 @@
 class Solution {
 public:
     int findChampion(int n, vector<vector<int>>& edges) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+        
         vector<int> indeg(n);
 
         for(auto edge:edges)
