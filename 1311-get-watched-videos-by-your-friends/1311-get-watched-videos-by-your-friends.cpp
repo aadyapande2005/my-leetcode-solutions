@@ -7,7 +7,7 @@ public:
         int n = friends.size();
         queue<pair<int,int>> q;
         vector<bool> vis(n);
-        map<string,int> freq;
+        unordered_map<string,int> freq;
 
         q.push({id, 0});
         vis[id] = true;
