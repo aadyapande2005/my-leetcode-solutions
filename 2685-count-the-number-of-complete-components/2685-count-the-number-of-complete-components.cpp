@@ -1,20 +1,24 @@
 class Solution {
 public:
-    vector<int> dfs(int node, vector<vector<int>> &adj, vector<bool> &vis)
+    pair<int,int> dfs(int node, vector<vector<int>> &adj, vector<bool> &vis)
     {
         vis[node] = true;
-        vector<int> nodes;
-        nodes.push_back(node);
+        // cout<<node<<" --> ";
+
+        int nodes = 1;
+        int edges = adj[node].size();
 
         for(int adjnode : adj[node])
         {
             if(!vis[adjnode])
             {
-                vector<int> temp = dfs(adjnode, adj, vis);
-                nodes.insert(nodes.end(),temp.begin(),temp.end());
+                auto ans = dfs(adjnode, adj, vis);
+                nodes += ans.first;
+                edges += ans.second;
             }
         }
-        return nodes;
+
+        return {nodes, edges};
     }
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
         vector<vector<int>> adj(n);
@@ -40,17 +44,9 @@ public:
         {
             if(!vis[i])
             {
-                vector<int> temp = dfs(i, adj, vis);
-                int nodes = temp.size();
-
-                int edges = 0;
-
-                for(int node:temp)
-                {
-                    edges += adj[node].size();
-                }         
-
-                if(nodes*(nodes-1) == edges) ans++;
+                auto [n, e] = dfs(i, adj, vis);
+                // cout<<n<<" "<<e<<endl;
+                if(n*(n-1) == e) ans++;
             }
         }
 
