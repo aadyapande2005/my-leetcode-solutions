@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## Two Pointers
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1805-number-of-different-integers-in-a-string) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+## Matrix
+|  |
+| ------- |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
