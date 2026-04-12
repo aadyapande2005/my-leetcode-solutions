@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [1486-xor-operation-in-an-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Bit Manipulation
 |  |
