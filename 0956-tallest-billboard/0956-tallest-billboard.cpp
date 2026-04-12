@@ -1,11 +1,11 @@
 class Solution {
 public:
     int tallestBillboard(vector<int>& rods) {
-        map<int, int> dp;
+        unordered_map<int, int> dp;
         dp[0] = 0;
 
         for (int r : rods) {
-            map<int, int> new_dp(dp);
+            unordered_map<int, int> new_dp(dp);
 
             for (auto entry : dp) {
                 int diff = entry.first;
