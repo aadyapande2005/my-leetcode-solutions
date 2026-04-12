@@ -21,8 +21,6 @@ class Solution(object):
             else:
                 mp[mod] = 1
 
-        print(mp)
-
         return count
 
 
