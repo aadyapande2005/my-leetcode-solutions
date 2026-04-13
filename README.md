@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2685-count-the-number-of-complete-components](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Dynamic Programming
 |  |
@@ -144,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+## Tree
+|  |
+| ------- |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Binary Tree
+|  |
+| ------- |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 <!---LeetCode Topics End-->
