@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Design
 |  |
 | ------- |
