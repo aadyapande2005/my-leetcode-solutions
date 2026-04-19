@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2191-sort-the-jumbled-numbers](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2191-sort-the-jumbled-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2191-sort-the-jumbled-numbers](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2191-sort-the-jumbled-numbers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Hash Table
 |  |
