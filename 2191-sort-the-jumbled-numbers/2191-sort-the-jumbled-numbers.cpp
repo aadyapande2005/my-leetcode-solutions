@@ -19,6 +19,9 @@ public:
         return n;
     }
     vector<int> sortJumbled(vector<int>& mapping, vector<int>& nums) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+        
         int n = nums.size();
         vector<pair<int,int>> temp;
         for(int i=0; i<n; i++)
