@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3612-process-string-with-special-operations-i](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
