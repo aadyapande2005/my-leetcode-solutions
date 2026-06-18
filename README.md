@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2806-account-balance-after-rounded-purchase) |
