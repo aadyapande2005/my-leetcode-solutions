@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1615-maximal-network-rank](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2924-find-champion-ii](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2924-find-champion-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Quickselect
 |  |
 | ------- |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 <!---LeetCode Topics End-->
