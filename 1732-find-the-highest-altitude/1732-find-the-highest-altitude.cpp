@@ -7,7 +7,6 @@ public:
         for(int x: gain)
         {
             ans = max(ans, curr);
-            cout<<curr<<endl;
             curr = x + curr;
         }
         return max(ans, curr);
