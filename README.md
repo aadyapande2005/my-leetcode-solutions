@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1732-find-the-highest-altitude](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1732-find-the-highest-altitude](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Tree
 |  |
 | ------- |
