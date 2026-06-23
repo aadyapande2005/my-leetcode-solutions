@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0851-loud-and-rich](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0851-loud-and-rich) |
 | [0956-tallest-billboard](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0956-tallest-billboard) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0851-loud-and-rich](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0851-loud-and-rich) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1615-maximal-network-rank](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0851-loud-and-rich](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0851-loud-and-rich) |
 | [2685-count-the-number-of-complete-components](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+## Topological Sort
+|  |
+| ------- |
+| [0851-loud-and-rich](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0851-loud-and-rich) |
 <!---LeetCode Topics End-->
