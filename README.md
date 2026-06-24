@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1615-maximal-network-rank](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2608-shortest-cycle-in-a-graph) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0956-tallest-billboard](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0956-tallest-billboard) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Bitmask
 |  |
