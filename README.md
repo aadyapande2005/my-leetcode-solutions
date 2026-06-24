@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2191-sort-the-jumbled-numbers](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2191-sort-the-jumbled-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1615-maximal-network-rank](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0851-loud-and-rich) |
+## Backtracking
+|  |
+| ------- |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 <!---LeetCode Topics End-->
