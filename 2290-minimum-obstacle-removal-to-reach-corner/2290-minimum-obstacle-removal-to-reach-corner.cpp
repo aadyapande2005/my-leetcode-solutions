@@ -5,20 +5,19 @@ public:
         int m = grid[0].size();
         vector<vector<int>> dist(n, vector<int> (m, 1e7));
 
-        queue<pair<pair<int,int>, int>> q;
+        queue<pair<int,int>> q;
 
         int dx[] = {0,1,0,-1}; 
         int dy[] = {-1,0,1,0};
 
         int ans = 1e7;
 
-        q.push({{0,0},0});
+        q.push({0,0});
         dist[0][0] = 0;
 
         while(!q.empty())
         {
-            auto [cor, d] = q.front();
-            auto [x, y] = cor;
+            auto [x, y] = q.front();
             q.pop();
 
             // cout<<x<<" "<<y<<endl;
@@ -36,7 +35,7 @@ public:
                     // cout<<"--"<<i<<" "<<j<<endl;
                     if(dist[i][j] > grid[i][j] + dist[x][y])
                     {
-                        q.push({{i,j}, grid[i][j] + dist[x][y]});
+                        q.push({i,j});
                         dist[i][j] = grid[i][j] + dist[x][y];
                     }
                 }
