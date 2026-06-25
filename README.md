@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2065-maximum-path-quality-of-a-graph](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2191-sort-the-jumbled-numbers](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2191-sort-the-jumbled-numbers) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2924-find-champion-ii](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2924-find-champion-ii) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Divide and Conquer
 |  |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Quickselect
 |  |
 | ------- |
@@ -191,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Topological Sort
 |  |
 | ------- |
