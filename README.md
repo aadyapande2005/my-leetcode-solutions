@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1486-xor-operation-in-an-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-tallest-billboard](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0956-tallest-billboard) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bitmask
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
