@@ -24,12 +24,13 @@ public:
         n = grid.size();
         int ans = 1e9;
 
-        vector<vector<int>> dp(n, vector<int> (n, 0));
+        vector<int> dp(n, 0);
 
-        for(int i=0; i<n; i++) dp[0][i] = grid[0][i];
+        for(int i=0; i<n; i++) dp[i] = grid[0][i];
 
         for(int i=1; i<n; i++)
         {
+            vector<int> ndp(n, 0);
             for(int j=0; j<n; j++)
             {
                 int mini = 1e9;
@@ -37,11 +38,12 @@ public:
                 {
                     if(k != j)
                     {   
-                        mini = min(mini, dp[i-1][k]);
+                        mini = min(mini, dp[k]);
                     }                         
                 }
-                dp[i][j] += mini + grid[i][j];
+                ndp[j] += mini + grid[i][j];
             }
+            dp = ndp;
         }
 
         // for(int i=0; i<n; i++)
@@ -54,6 +56,6 @@ public:
             
         // }
 
-        return *min_element(dp[n-1].begin(), dp[n-1].end());
+        return *min_element(dp.begin(), dp.end());
     }
 };
