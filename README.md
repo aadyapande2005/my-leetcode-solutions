@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-tallest-billboard](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0956-tallest-billboard) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1732-find-the-highest-altitude](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0956-tallest-billboard](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0956-tallest-billboard) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1289-minimum-falling-path-sum-ii](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
