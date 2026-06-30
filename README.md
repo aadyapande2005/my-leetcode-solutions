@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0851-loud-and-rich) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -191,10 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search
 |  |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
