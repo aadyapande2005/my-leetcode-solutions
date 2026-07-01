@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -232,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Number Theory
+|  |
+| ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->
