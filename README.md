@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0851-loud-and-rich) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -193,11 +194,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aadyapande2005/my-leetcode-solutions/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search
